@@ -3,6 +3,7 @@
 ## Dogs
 
 - Azei
+  ![alt text](images/azai.jpg "Title")
   He's a friendly puppy you know you can't resist
 - T-bow
   She's a playful German shepherd puppy
