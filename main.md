@@ -22,4 +22,4 @@
 ## Pigs
 
 - Oinky
-- Oua
+- Pua
