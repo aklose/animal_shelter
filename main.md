@@ -9,7 +9,7 @@
 
 ## Cats
 
-- Sea shell & Amber
+- Sea shell and Amber
 
 ---
 
