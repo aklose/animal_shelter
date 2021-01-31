@@ -2,15 +2,24 @@
 
 ## Dogs
 
-### Azei
+- Azei
+- T-bow
 
-### T-bow
+---
 
 ## Cats
 
-### Sea shell & Amber
+- Sea shell & Amber
 
-## Others
+---
 
-### Razzle, Heart, Harmony, and sparkle
+## Unicorns
 
+- Razzle, Heart, Harmony, and Sparkle
+
+---
+
+## Pigs
+
+- Oinky
+- Oua
